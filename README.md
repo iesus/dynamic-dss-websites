@@ -4,6 +4,7 @@ Here we have public visualizations of "Street Life" data
 
 ##Conditional Probs Across Time
 
+[placejohnjm_house] (https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_house_.html)
 [place(john,jm_house)] (https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_house_.html)
 [place(john,jm_front)] (https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_front_.html)
 [place(john,h_house)] (https://iesus.github.io/dynamic-dss-websites/across_time/place_john_h_house_.html)
