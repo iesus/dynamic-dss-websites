@@ -1,7 +1,14 @@
-# "Street Life" Visualizations
+# Street Life Visualizations
 
-Here we have public visualizations of "Street Life" data
+Here we have visualizations of the dataset for the "Street Life" microworld. 
 
+For readability, the microworld is restricted to only have John and the bus as only participants in the microworld. We get very similar graphs adding Mary and Henrietta, except that the graphics are much larger and difficult to read.
+
+
+
+## Probabilities related to Pairs of Basic Propositions
+
+These graphs show that at any given time, there are dependencies between propositions.
 
 [Conditional Probs of each Basic Proposition given another one](https://iesus.github.io/dynamic-dss-websites/pairs/cond_probs.html)
 
@@ -9,7 +16,9 @@ Here we have public visualizations of "Street Life" data
 
 
 
-## Conditional Probs Across Time GIVEN a proposition
+## Conditional Probs Across Time GIVEN each Basic Proposition
+
+These graphs show that there are temporal dependencies between the states of affairs at different time steps.
 
 * [place(john,jm_house)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_house.html)
 * [place(john,jm_front)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_front.html)
