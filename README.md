@@ -3,8 +3,9 @@
 Here we have public visualizations of "Street Life" data
 
 
-[Conditional Probs of each Basic Proposition given another one](https://iesus.github.io/dynamic-dss-websites/cond_probs.html)
-[Joint Probs of each possible Pair of Basic Propositions](https://iesus.github.io/dynamic-dss-websites/joint_probs.html)
+[Conditional Probs of each Basic Proposition given another one](https://iesus.github.io/dynamic-dss-websites/pairs/cond_probs.html)
+
+[Joint Probs of each possible Pair of Basic Propositions](https://iesus.github.io/dynamic-dss-websites/pairs/joint_probs.html)
 
 
 
