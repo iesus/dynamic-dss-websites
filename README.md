@@ -1,4 +1,4 @@
-# "Street" Life Visualizations
+# "Street Life" Visualizations
 
 Here we have public visualizations of "Street Life" data
 
