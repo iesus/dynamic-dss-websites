@@ -2,7 +2,13 @@
 
 Here we have public visualizations of "Street Life" data
 
-## Conditional Probs Across Time
+
+[Conditional Probs of each Basic Proposition given another one](https://iesus.github.io/dynamic-dss-websites/cond_probs.html)
+[Joint Probs of each possible Pair of Basic Propositions](https://iesus.github.io/dynamic-dss-websites/joint_probs.html)
+
+
+
+## Conditional Probs Across Time GIVEN a proposition
 
 * [place(john,jm_house)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_house.html)
 * [place(john,jm_front)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_front.html)
