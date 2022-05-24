@@ -113,4 +113,9 @@ John was walking to Henrietta s house .  (begin_walk_to(john,h_house) | middle_w
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_lines_cross.html)
 
+John walked to Henrietta s house . result_walk_to(john,h_house)
+
+* [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_HM_all.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_lines_cross.html)
 
