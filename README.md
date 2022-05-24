@@ -93,7 +93,7 @@ These graphs show the temporal dependencies between states of affairs at differe
 
 ## Conditional Probs through Time Given a Sentence
 
-Similar to the previous links, here we show how the states of affairs are expected to change at different time steps given that a sentences is true at timestep t=0.
+Similar to the previous links, here we show how the states of affairs are expected to change at different time steps given that a sentence is true at timestep t=0.
 
 John was crossing the street . (begin_cross_street(john) | middle_cross_street(john))
 
@@ -106,3 +106,11 @@ John crossed the street .  result_cross_street(john)
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_lines_cross.html)
+
+John was walking to Henrietta s house .  (begin_walk_to(john,h_house) | middle_walk_to(john,h_house))
+
+* [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_HM_all.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_lines_cross.html)
+
+
