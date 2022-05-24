@@ -90,3 +90,17 @@ These graphs show that there are temporal dependencies between the states of aff
 * [result_arrive(bus,street_north)](https://iesus.github.io/dynamic-dss-websites/across_time/result_arrive_bus_street_north.html)
 * [result_arrive(bus,street_south)](https://iesus.github.io/dynamic-dss-websites/across_time/result_arrive_bus_street_south.html)
 * [rain](https://iesus.github.io/dynamic-dss-websites/across_time/rain.html)
+
+## Conditional Probs Across Time Given a Sentence
+
+John was crossing the street . (begin_cross_street(john) | middle_cross_street(john))
+
+* [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_all.html)
+* [Heatmap only John-related Basic Propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_lines_cross.html)
+
+John crossed the street .  result_cross_street(john)
+
+* [Full Heatmap]](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_all.html)
+* [Heatmap only John-related Basic Propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_lines_cross.html)
