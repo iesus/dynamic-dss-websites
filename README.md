@@ -2,13 +2,13 @@
 
 Here we have visualizations of the dataset for the "Street Life" microworld. 
 
-For readability, the microworld is restricted to only have John and the bus as only participants in the microworld. We get very similar graphs adding Mary and Henrietta, except that the graphics are much larger and difficult to read.
+For readability, in most of these graphs, the microworld is restricted to only have John and the bus as only participants in the microworld. We get very similar graphs adding Mary and Henrietta, except that the graphics are much larger and difficult to read.
 
 
 
 ## Probabilities related to Pairs of Basic Propositions
 
-These graphs show that at any given time, there are dependencies between propositions.
+These graphs show the dependencies between propositions WITHIN a time step.
 
 [Conditional Probs of each Basic Proposition given another one](https://iesus.github.io/dynamic-dss-websites/pairs/cond_probs.html)
 
@@ -16,9 +16,9 @@ These graphs show that at any given time, there are dependencies between proposi
 
 
 
-## Conditional Probs Across Time GIVEN each Basic Proposition
+## Conditional Probs through Time GIVEN each Basic Proposition
 
-These graphs show that there are temporal dependencies between the states of affairs at different time steps.
+These graphs show the temporal dependencies between states of affairs at different time steps, given that a basic proposition is true at timestep t=0.
 
 * [place(john,jm_house)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_house.html)
 * [place(john,jm_front)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_front.html)
@@ -91,16 +91,18 @@ These graphs show that there are temporal dependencies between the states of aff
 * [result_arrive(bus,street_south)](https://iesus.github.io/dynamic-dss-websites/across_time/result_arrive_bus_street_south.html)
 * [rain](https://iesus.github.io/dynamic-dss-websites/across_time/rain.html)
 
-## Conditional Probs Across Time Given a Sentence
+## Conditional Probs through Time Given a Sentence
+
+Similar to the previous links, here we show how the states of affairs are expected to change at different time steps given that a sentences is true at timestep t=0.
 
 John was crossing the street . (begin_cross_street(john) | middle_cross_street(john))
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_all.html)
-* [Heatmap only John-related Basic Propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_john.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_lines_cross.html)
 
 John crossed the street .  result_cross_street(john)
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_all.html)
-* [Heatmap only John-related Basic Propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_john.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_lines_cross.html)
