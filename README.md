@@ -119,3 +119,21 @@ John walked to Henrietta s house . result_walk_to(john,h_house)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_lines_cross.html)
 
+John fell .  result_fall(john)
+
+* [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_HM_all.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_lines_cross.html)
+
+John was falling .  begin_fall(john)
+
+* [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_falling_HM_all.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_falling_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_falling_lines_cross.html)
+
+The bus hit John .  hit(bus,john)
+
+* [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/the_bus_hit_john_HM_all.html)
+* [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/the_bus_hit_john_HM_john.html)
+* [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/the_bus_hit_john_lines_cross.html)
+
