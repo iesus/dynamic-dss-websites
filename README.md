@@ -1,14 +1,15 @@
 # Street Life Visualizations
 
-Here we have visualizations of the dataset for the "Street Life" microworld. 
+Here we have public visualizations of the dataset for the "Street Life" microworld. 
 
-For readability, in most of these graphs, the microworld is restricted to only have John and the bus as only participants in the microworld. We get very similar graphs adding Mary and Henrietta, except that the graphics are much larger and difficult to read.
+For readability, in most of these graphics, the microworld is restricted to only have John and the bus as only participants in the microworld. 
+We get very similar graphs adding Mary and Henrietta, except that the graphics are much larger and difficult to read.
 
 
 
 ## Probabilities related to Pairs of Basic Propositions
 
-These graphs show the dependencies between propositions WITHIN a time step.
+These graphics show the dependencies between propositions WITHIN a time step.
 
 [Conditional Probs of each Basic Proposition given another one](https://iesus.github.io/dynamic-dss-websites/pairs/cond_probs.html)
 
@@ -18,7 +19,7 @@ These graphs show the dependencies between propositions WITHIN a time step.
 
 ## Conditional Probs through Time GIVEN each Basic Proposition
 
-These graphs show the temporal dependencies between states of affairs at different time steps, given that a basic proposition is true at timestep t=0.
+These graphics show the temporal dependencies between states of affairs at different time steps (before and after), given that a basic proposition is true at timestep t=0.
 
 * [place(john,jm_house)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_house.html)
 * [place(john,jm_front)](https://iesus.github.io/dynamic-dss-websites/across_time/place_john_jm_front.html)
@@ -93,7 +94,7 @@ These graphs show the temporal dependencies between states of affairs at differe
 
 ## Conditional Probs through Time Given a Sentence
 
-Similar to the previous links, here we show how the states of affairs are expected to change at different time steps given that a sentence is true at timestep t=0.
+Similar to the previous graphics, here we show how the states of affairs are expected to change through time (before and after), given that a sentence is true at timestep t=0.
 
 John was crossing the street . (begin_cross_street(john) | middle_cross_street(john))
 
