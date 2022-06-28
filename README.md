@@ -134,7 +134,7 @@ John fell .  result_fall(john)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_lines_cross.html)
 * [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/modelpreds_john_fell_HM_all.html)
-* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/websites/modelpreds_john_fell_HM_john.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/modelpreds_john_fell_HM_john.html)
 
 John was falling .  begin_fall(john)
 
