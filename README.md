@@ -126,7 +126,7 @@ John walked to Henrietta s house .  result_walk_to(john,h_house)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_lines_cross.html)
 * [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/modelpreds_john_walked_to_henrietta_s_house_HM_all.html)
-* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/modelpreds_john_walked_to_henrietta_s_house_HM_john.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/modelpreds_john_walked_to_henrietta_s_house_HM_john.html)
 
 John fell .  result_fall(john)
 
