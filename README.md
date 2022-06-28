@@ -101,40 +101,55 @@ John was crossing the street .  (begin_cross_street(john) | middle_cross_street(
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_crossing_the_street_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_was_crossing_the_street_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_was_crossing_the_street_HM_john.html)
 
 John crossed the street .  result_cross_street(john)
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_crossed_the_street_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_crossed_the_street_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_crossed_the_street_HM_john.html)
 
 John was walking to Henrietta s house .  (begin_walk_to(john,h_house) | middle_walk_to(john,h_house))
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_walking_to_henrietta_s_house_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_was_walking_to_henrietta_s_house_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_was_walking_to_henrietta_s_house_HM_john.html)
 
 John walked to Henrietta s house .  result_walk_to(john,h_house)
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_walked_to_henrietta_s_house_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_walked_to_henrietta_s_house_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_walked_to_henrietta_s_house_HM_john.html)
 
 John fell .  result_fall(john)
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_fell_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_fell_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_fell_HM_john.html)
 
 John was falling .  begin_fall(john)
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_falling_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_falling_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/john_was_falling_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_was_falling_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_john_was_falling_HM_john.html)
 
 The bus hit John .  hit(bus,john)
 
 * [Full Heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/the_bus_hit_john_HM_all.html)
 * [Heatmap only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/the_bus_hit_john_HM_john.html)
 * [Line plots, only selected basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/the_bus_hit_john_lines_cross.html)
+* [Model Predictions, full heatmap](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_the_bus_hit_john_HM_all.html)
+* [Model Predictions, only John-related basic propositions](https://iesus.github.io/dynamic-dss-websites/across_time/outputs/websites/modelpreds_the_bus_hit_john_HM_john.html)
+
 
